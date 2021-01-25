@@ -14,5 +14,10 @@
 
 ![Mindset](https://www.louisamiles.com/wp-content/uploads/2017/10/HarryMindset_brain.jpg)
 
+**Table of contant **
 
+| Page Name | links |
+|-----------|-------|
+| Read1     | [link](https://saraaltaweel.github.io/reading-notes/read-one) |
+| Read2     | [link](https://saraaltaweel.github.io/reading-notes/read-two) |
 
