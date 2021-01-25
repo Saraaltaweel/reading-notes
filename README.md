@@ -14,7 +14,7 @@
 
 ![Mindset](https://www.louisamiles.com/wp-content/uploads/2017/10/HarryMindset_brain.jpg)
 
-**Table of contant **
+**Table of contant**
 
 | Page Name | links |
 |-----------|-------|
