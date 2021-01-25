@@ -18,6 +18,6 @@
 
 | Page Name | links |
 |-----------|-------|
-| Read1     | [link](https://saraaltaweel.github.io/reading-notes/read-one) |
-| Read2     | [link](https://saraaltaweel.github.io/reading-notes/read-two) |
+| Read1     | [click here to go to read1 page](https://saraaltaweel.github.io/reading-notes/read-one) |
+| Read2     | [click here to go to read2 page](https://saraaltaweel.github.io/reading-notes/read-two) |
 
