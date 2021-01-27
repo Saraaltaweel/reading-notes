@@ -8,7 +8,7 @@
 
   ## In this read4, we are focussing on the JavaScript language and how it is used in web browsers.
 
-# Just like learning any new language, you need to get to grips with the: 
+### Just like learning any new language, you need to get to grips with the: 
 
 1. Vocabulary: The words that computers
 understand
@@ -18,7 +18,7 @@ create instructions computers can follow
   
 
 
-  # An expression evaluates into (results in) a single value. Broadly speaking there are two types of expressions:
+  ### An expression evaluates into (results in) a single value. Broadly speaking there are two types of expressions:
 
 1. EXPRESSIONS THAT JUST ASSIGN A VALUE TO A VARIABLE:
 
@@ -32,7 +32,7 @@ create instructions computers can follow
  
  **The value of area is now 6.**
 
-  # Expressions rely on things called operators; they allow programmers to create a single value from one or more values:
+  ### Expressions rely on things called operators; they allow programmers to create a single value from one or more values:
 
 
 1. `greeting= 'Hi 1 + 'Mol ly';`
@@ -42,7 +42,7 @@ create instructions computers can follow
   **The value of buy is now true.**  
 
 
-# JavaScript contains the following mathematical operators, which you can use with numbers:
+### JavaScript contains the following mathematical operators, which you can use with numbers:
 
 
  1. ADDITION  `+`   Adds one value to another  `10 + 5`  ` 15 `
