@@ -33,14 +33,14 @@
 
 `4 <= 3` return false
 
-###Logical operators allow you to compare the results of more than one comparison operator.
+### Logical operators allow you to compare the results of more than one comparison operator.
 
-&& | || | !
+&& | or | !
 -- |--- | -
-true && true return true | true || true return true | !true return false 
-true && false return false | true || false return trure | !false return true 
-false && true return false | false || true return true | 
-false && false return false | false || false return false |
+true && true return true | true||true return true | !true return false 
+true && false return false | true||false return trure | !false return true 
+false && true return false | false||true return true | 
+false && false return false | false||false return false |
 
 
 # Loops
