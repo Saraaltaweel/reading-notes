@@ -6,7 +6,7 @@
 
  
 
-  ## In this read4, we are focussing on the JavaScript language and how it is used in web browsers.
+  ## In this read4, we are focussing on the JavaScript language and how it is used in web browsers.*
 
 ### Just like learning any new language, you need to get to grips with the: 
 

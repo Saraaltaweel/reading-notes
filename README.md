@@ -22,5 +22,8 @@
 | Read2     | [click here to go to read2 page](https://saraaltaweel.github.io/reading-notes/read-two) |
 | Read3     | [click here to go to read3 page](https://saraaltaweel.github.io/reading-notes/html-Layout) |
 | Read4     | [click here to go to read4 page](https://saraaltaweel.github.io/reading-notes/read-four) |
+| Read5     | [click here to go to read5 page](https://saraaltaweel.github.io/reading-notes/read-five) |
+| Read6    | [click here to go to read6 page](https://saraaltaweel.github.io/reading-notes/read-six1) |
+| Read6    | [click here to go to read6 page](https://saraaltaweel.github.io/reading-notes/read-six2) |
 
 
